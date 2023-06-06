@@ -15,6 +15,7 @@ All links are to EU retailers, unless otherwise specified. Note that since Brexi
 - [Squidbox](http://squidboxarcades.com/)
 - [Satsui (direct custom order only)](https://twitter.com/satsuisticks)
 - [Keybox Arcade](https://www.etsy.com/shop/KeyboxArcade)
+- [Ultra Arcade](https://ultraarcade.eu/)
 
 # DIY
 More to come.
