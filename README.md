@@ -16,7 +16,7 @@ All links are to EU retailers, unless otherwise specified. Note that since Brexi
 - [Satsui (direct custom order only)](https://twitter.com/satsuisticks)
 - [Keybox Arcade](https://www.etsy.com/shop/KeyboxArcade)
 - [Ultra Arcade](https://ultraarcade.eu/)
-
+- [Priceless Sticks (direct custom order only)](https://linktr.ee/pricelesssticks)
 # DIY
 More to come.
 
