@@ -7,7 +7,9 @@ This document is intended to be a real living document, driven by community cont
 
 You can buy something premade, or build your own, or modify an existing fightstick to use buttons instead.
 
-All links are to EU retailers, unless otherwise specified. Note that since Brexit, UK retailers no longer benefit from EU trade regulations, meaning you are likely to pay import fees on top of the price of the item plus shipping.
+All links are to EU retailers, unless otherwise specified.
+
+NOTE: Note that since Brexit, UK-based retailers no longer benefit from EU trade regulations, meaning that if you are buying from a UK-based retailer, you are likely to pay import fees on top of the price of the item plus shipping.
 
 == Premade
 
