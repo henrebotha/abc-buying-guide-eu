@@ -28,7 +28,9 @@ NOTE: Note that since Brexit, UK-based retailers no longer benefit from EU trade
 
 == DIY
 
-More to come.
+There are a staggering number of options available, many of them on GitHub. You might have luck searching for terms such as "diy leverless".
+
+Alternatively, a great number of DIY projects make use of the https://gp2040-ce.info/[GP2040-CE] open source game controller firmware. You might find some of them by visiting the GP2040-CE community and/or GitHub repos and searching from there.
 
 == Modify
 
