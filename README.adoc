@@ -1,4 +1,5 @@
-= All-button controller ("Hit Box"-style) buying guide for the EU
+= https://glossary.infil.net/?t=Leverless[Leverless controller] buying guide for the EU
+:keywords: stickless controller, all-button controller, "Hit Box"-style controller
 
 This document is intended to be a real living document, driven by community contributions. If you wish to add to this document, please feel free to submit a pull request (you should be able to do so https://github.com/henrebotha/abc-buying-guide-eu/edit/main/README.adoc[by editing the file directly on GitHub]).
 
