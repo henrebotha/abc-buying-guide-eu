@@ -1,0 +1,31 @@
+= All-button controller ("Hit Box"-style) buying guide for the EU
+
+This document is intended to be a real living document, driven by community contributions. If you wish to add to this document, please feel free to submit a pull request (you should be able to do so https://github.com/henrebotha/abc-buying-guide-eu/edit/main/README.adoc[by editing the file directly on GitHub]).
+
+'''
+
+You can buy something premade, or build your own, or modify an existing fightstick to use buttons instead.
+
+All links are to EU retailers, unless otherwise specified. Note that since Brexit, UK retailers no longer benefit from EU trade regulations, meaning you are likely to pay import fees on top of the price of the item plus shipping.
+
+== Premade
+
+- https://www.smallcab.net/ps4pc-original-p-2810.html[Hit Box]
+- https://arcadeforge.net/Arcade-Sticks/Custom-Hitbox-Arcade-Fight-Stick-for-Playstation-4-PS4-PS3-PC-or-xbox360::230.html?language=en[ArcadeForge]
+- https://karboxarcade.com/[Karbox] (various models)
+- https://www.enthcreations.com/collections/all[Enth] (various models)
+- http://squidboxarcades.com/[Squidbox]
+- https://twitter.com/satsuisticks[Satsui] (direct custom order only)
+- https://www.etsy.com/shop/KeyboxArcade[Keybox Arcade]
+- https://ultraarcade.eu/[Ultra Arcade]
+- https://linktr.ee/pricelesssticks[Priceless Sticks] (direct custom order only)
+- https://atachon.com/[Atachon Arcade]
+- https://saveyourgames.it[Save Your Games]
+
+== DIY
+
+More to come.
+
+== Modify
+
+More to come.
